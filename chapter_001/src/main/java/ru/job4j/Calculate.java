@@ -7,11 +7,10 @@ package ru.job4j;
 */
 public class Calculate {
 	/**
-	* Главный метод main
-	* @param args массив строк
+	* Главный метод main.
+	* @param args массив строк.
 	*/
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 	}
-	
 }
